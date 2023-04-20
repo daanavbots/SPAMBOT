@@ -26,7 +26,7 @@
 ## Status Of Bot 
 
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/SPAMBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/SPAMBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/SPAMBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT?"></a>
+    <a href="https://github.com/daanavbots/SPAMBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/SPAMBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/SPAMBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT?"></a>
 
 ------------
 <h3> Deploy To Heroku </h3>
